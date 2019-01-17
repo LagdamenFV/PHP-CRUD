@@ -39,7 +39,7 @@
             <th>Action</th>
         </thead>
         <tbody>
-
+            <?php require('retrieve.php');?>
         </tbody>
     </table>
 </body>
